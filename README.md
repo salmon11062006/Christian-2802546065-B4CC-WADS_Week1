@@ -1,3 +1,3 @@
 # Week 1
 
-Name: Christian Salomo Tasmaan
+Name: Christian Salomo
