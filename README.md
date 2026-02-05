@@ -1,4 +1,4 @@
-# Week 1 WADS Project
+# Week 1 WADS Git Project
 
 Name: Christian Salomo Tasmaan
 
